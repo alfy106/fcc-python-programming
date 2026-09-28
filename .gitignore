@@ -1,0 +1,17 @@
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Ambienti virtuali
+.venv/
+env/
+venv/
+ENV/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
